@@ -5,6 +5,10 @@ Tenho conhecimento em Python (linguagem essa que me motivou entrar na área de p
 
 * Meu objetivo é me tornar um desenvolvedor full-stack e trabalhar em projetos importantes que me permitam crescer profissionalmente, além de ter experiência com empresas de tecnologia.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m4rrec0s&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4rrec0s&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" />
+
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -12,7 +16,9 @@ Tenho conhecimento em Python (linguagem essa que me motivou entrar na área de p
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-##   
+##
+
+
 
 <div>
   
