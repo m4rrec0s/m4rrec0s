@@ -11,8 +11,8 @@ Tenho conhecimento em Python (linguagem essa que me motivou entrar na área de p
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-  
-##
+
+##   
 
 <div>
   
