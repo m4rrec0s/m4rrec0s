@@ -1,4 +1,4 @@
-## Olá, eu sou Marcos Henrique, um apaixonado por programação!!! 👋
+## Olá, eu sou Marcos Henrique!!! 👋
 
 Tenho conhecimento em Python (linguagem essa que me motivou entrar na área de programador/desenvolvedor). Atualmente, estou aprendendo HTML e CSS para expandir minhas habilidades.
 
