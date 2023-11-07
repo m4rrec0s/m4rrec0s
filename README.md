@@ -1,8 +1,14 @@
 ## Olá, eu sou Marcos Henrique!!! 👋
 
+<div style="align: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=m4rrec0s&show_icons=true&transparent&theme=transparent" style="width: 340px; height: 200px;" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4rrec0s&layout=compact&transparent&theme=transparent" style="width: 300px; height: 200px;" alt="stats"/>
+</div>
+
+<!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m4rrec0s&show_icons=true&transparent&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m4rrec0s&layout=compact&transparent&theme=transparent)
-
+-->
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
