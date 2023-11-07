@@ -1,5 +1,9 @@
 ## Olá, eu sou Marcos Henrique!!! 👋
 
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--Bvmml6BO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2spvnepyxjwyv1geq7mh.gif" alt="programming">
+
+##
+
 <div style="margin: auto; display: flex; justify-content: center; align-items: center">
   <img src="https://github-readme-stats.vercel.app/api?username=m4rrec0s&show_icons=true&transparent&theme=transparent" style="width: 340px; height: 200px;" alt="stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4rrec0s&layout=compact&transparent&theme=transparent" style="width: 300px; height: 200px;" alt="stats"/>
