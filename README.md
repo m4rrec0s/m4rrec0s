@@ -1,7 +1,5 @@
 ## Olá, eu sou Marcos Henrique!!! 👋
 
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--Bvmml6BO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2spvnepyxjwyv1geq7mh.gif" alt="programming">
-
 ##
 
 <div style="margin: auto; display: flex; justify-content: center; align-items: center">
