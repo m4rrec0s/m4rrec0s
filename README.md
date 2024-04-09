@@ -27,8 +27,9 @@
 
 <h3>GitHub Stats</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m4rrec0s&theme=dark&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m4rrec0s&layout=compact&theme=dark&show&size_weight=0&count_weight=1)
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=m4rrec0s&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=0CF25D&text_color=FFF&border_radius=3&border_color=0CF25D&icon_color=0CF25D)
+[![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=m4rrec0s&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_icons=true&title_color=0CF25D&hide=html,css&bg_color=000&text_color=FFF&border_radius=3&border_color=0CF25D&count_private=true)](https://github.com/m4rrec0s/github-readme-stats)
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m4rrec0s/m4rrec0s/output/github-contribution-grid-snake-dark.svg">
