@@ -1,31 +1,37 @@
-## Olá, eu sou Marcos Henrique!!! 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=0CF25D&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+o+Marcos!+)](https://git.io/typing-svg)
 
-<div style="margin: auto; display: flex; justify-content: center; align-items: center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4rrec0s&layout=compact&transparent&theme=transparent" style="width: 300px; height: 200px;" alt="stats"/>
+<p align="left">Sou um estudante dedicado de Análise e Desenvolvimento de Sistemas, com dois anos de experiência acadêmica na área de tecnologia. Minha paixão por programação me impulsiona a buscar constantemente o aprimoramento de minhas habilidades, com o objetivo de me tornar um desenvolvedor web full-stack competente. Estou comprometido com a aprendizagem contínua e a aplicação prática do conhecimento para resolver problemas reais e criar soluções inovadoras na web.
+
+<h3>Let's connect?</h3>
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=0CF25D&color:FFF)](mailto:marcos_rique@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0CF25D&color:FFF)](https://www.linkedin.com/in/marcos-henrique-ara%C3%BAjo-7a641a242)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=0CF25D&color:FFF)](https://www.instagram.com/marcos_henrique_eu/)
+
+<h3 align="left">My Stack</h3>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="java logo"  />
+  <img width="8" />
 </div>
 
-Acesse meu [Portfolio](https://m4rrec0s.github.io/HTML5-e-CSS3/portifolio/)!
+<h3>GitHub Stats</h3>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="meu personagem" height="134" width="237" src="https://media.tenor.com/RFCFMqnbXaEAAAAC/gojo-satoru-gojo.gif">
-</div>
-
-##
-
-<div>
-  <a href="https://www.youtube.com/channel/UCRLnFu3Fo7Z8ORL3DfuOfDw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/marcos_henrique_eu/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:contato.marcos.henrique.araujo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/marcos-henrique-ara%C3%BAjo-7a641a242" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m4rrec0s&theme=dark&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m4rrec0s&layout=compact&theme=dark&show)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m4rrec0s/m4rrec0s/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/m4rrec0s/m4rrec0s/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/m4rrec0s/m4rrec0s/output/github-contribution-grid-snake.svg">
 </picture>
