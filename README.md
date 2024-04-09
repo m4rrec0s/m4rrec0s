@@ -28,7 +28,7 @@
 <h3>GitHub Stats</h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m4rrec0s&theme=dark&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m4rrec0s&layout=compact&theme=dark&show)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m4rrec0s&layout=compact&theme=dark&show&size_weight=0&count_weight=1)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m4rrec0s/m4rrec0s/output/github-contribution-grid-snake-dark.svg">
