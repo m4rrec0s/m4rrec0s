@@ -5,7 +5,7 @@
 <h3>Let's connect?</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=0CF25D&color:FFF)](mailto:marcos_rique@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0CF25D&color:FFF)](https://www.linkedin.com/in/marcos-henrique-ara%C3%BAjo-7a641a242)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0CF25D&color:FFF)](https://www.linkedin.com/in/marcos-henrique-araujo/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=0CF25D&color:FFF)](https://www.instagram.com/marcos_henrique_eu/)
 
 <h3 align="left">My Stack</h3>
