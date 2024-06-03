@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=0CF25D&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+o+Marcos!+)](https://git.io/typing-svg)
 
-<p align="left">Sou um estudante dedicado de Análise e Desenvolvimento de Sistemas, com dois anos de experiência acadêmica na área de tecnologia. Minha paixão por programação me impulsiona a buscar constantemente o aprimoramento de minhas habilidades, com o objetivo de me tornar um desenvolvedor web full-stack competente. Estou comprometido com a aprendizagem contínua e a aplicação prática do conhecimento para resolver problemas reais e criar soluções inovadoras na web.
+<p align="left">Sou um estudante dedicado de Análise e Desenvolvimento de Sistemas, com dois anos de experiência na área de tecnologia. Minha paixão por programação me impulsiona a buscar constantemente o aprimoramento de minhas habilidades, com o objetivo de me tornar um desenvolvedor web full-stack competente. Estou comprometido com a aprendizagem contínua e a aplicação prática do conhecimento para resolver problemas reais e criar soluções inovadoras na web.
 
 <h3>Let's connect?</h3>
 
