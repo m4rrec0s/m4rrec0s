@@ -38,8 +38,9 @@ Sou um estudante dedicado de **Análise e Desenvolvimento de Sistemas**, com exp
 ## 📊 GitHub Stats
 
 <div align="left">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=m4rrec0s&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=30&hide=issues&bg_color=000&title_color=0CF25D&text_color=FFF&border_radius=3&border_color=0CF25D&icon_color=0CF25D" />
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=m4rrec0s&layout=compact&hide_title=false&count_private=true&langs_icons=true&hide=html,css,shell,kotlin&title_color=0CF25D&bg_color=000&text_color=FFF&border_radius=3&border_color=0CF25D" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=m4rrec0s&hide_title=true&show_icons=true&include_all_commits=false&count_private=false&line_height=30&hide=issues&bg_color=000&title_color=0CF25D&text_color=FFF&border_radius=3&border_color=0CF25D&icon_color=0CF25D" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4rrec0s&layout=compact&hide_title=false&count_private=false&langs_count=6&langs_icons=true&hide=html,css,shell,kotlin&title_color=0CF25D&bg_color=000&text_color=FFF&border_radius=3&border_color=0CF25D" />
 </div>
 
 ---
