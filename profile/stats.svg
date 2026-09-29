@@ -9,18 +9,15 @@
   <text x="24" y="34" class="title">GitHub Overview</text>
   <text x="24" y="54" class="muted">@m4rrec0s · public activity</text>
 
-  <line x1="247.5" y1="72" x2="247.5" y2="154" stroke="#30363d"/>
-  <line x1="24" y1="113" x2="471" y2="113" stroke="#21262d"/>
+  <line x1="165" y1="76" x2="165" y2="146" stroke="#30363d"/>
+  <line x1="330" y1="76" x2="330" y2="146" stroke="#30363d"/>
 
-  <text x="24" y="94" class="value">34</text>
-  <text x="82" y="92" class="label">Public Repos</text>
+  <text x="82" y="106" text-anchor="middle" class="value">34</text>
+  <text x="82" y="130" text-anchor="middle" class="label">Public Repos</text>
 
-  <text x="271" y="94" class="value">14</text>
-  <text x="329" y="92" class="label">Total Stars</text>
+  <text x="247.5" y="106" text-anchor="middle" class="value">53</text>
+  <text x="247.5" y="130" text-anchor="middle" class="label">Followers</text>
 
-  <text x="24" y="144" class="value">53</text>
-  <text x="82" y="142" class="label">Followers</text>
-
-  <text x="271" y="144" class="value">1</text>
-  <text x="329" y="142" class="label">Repo Forks</text>
+  <text x="413" y="106" text-anchor="middle" class="value">96</text>
+  <text x="413" y="130" text-anchor="middle" class="label">Following</text>
 </svg>
