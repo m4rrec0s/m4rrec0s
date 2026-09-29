@@ -35,7 +35,6 @@ metrics = [
     ("Public Repos", fmt(public_repos)),
     ("Followers", fmt(followers)),
     ("Following", fmt(following)),
-    ("Public Gists", fmt(public_gists)),
 ]
 
 svg = f"""<svg xmlns="http://www.w3.org/2000/svg" width="495" height="180" viewBox="0 0 495 180" role="img" aria-label="GitHub stats for {escape(USERNAME)}">
@@ -49,20 +48,17 @@ svg = f"""<svg xmlns="http://www.w3.org/2000/svg" width="495" height="180" viewB
   <text x="24" y="34" class="title">GitHub Overview</text>
   <text x="24" y="54" class="muted">@{escape(USERNAME)} · public activity</text>
 
-  <line x1="247.5" y1="72" x2="247.5" y2="154" stroke="#30363d"/>
-  <line x1="24" y1="113" x2="471" y2="113" stroke="#21262d"/>
+  <line x1="165" y1="76" x2="165" y2="146" stroke="#30363d"/>
+  <line x1="330" y1="76" x2="330" y2="146" stroke="#30363d"/>
 
-  <text x="24" y="94" class="value">{metrics[0][1]}</text>
-  <text x="82" y="92" class="label">{metrics[0][0]}</text>
+  <text x="82" y="106" text-anchor="middle" class="value">{metrics[0][1]}</text>
+  <text x="82" y="130" text-anchor="middle" class="label">{metrics[0][0]}</text>
 
-  <text x="271" y="94" class="value">{metrics[1][1]}</text>
-  <text x="329" y="92" class="label">{metrics[1][0]}</text>
+  <text x="247.5" y="106" text-anchor="middle" class="value">{metrics[1][1]}</text>
+  <text x="247.5" y="130" text-anchor="middle" class="label">{metrics[1][0]}</text>
 
-  <text x="24" y="144" class="value">{metrics[2][1]}</text>
-  <text x="82" y="142" class="label">{metrics[2][0]}</text>
-
-  <text x="271" y="144" class="value">{metrics[3][1]}</text>
-  <text x="329" y="142" class="label">{metrics[3][0]}</text>
+  <text x="413" y="106" text-anchor="middle" class="value">{metrics[2][1]}</text>
+  <text x="413" y="130" text-anchor="middle" class="label">{metrics[2][0]}</text>
 </svg>
 """
 
