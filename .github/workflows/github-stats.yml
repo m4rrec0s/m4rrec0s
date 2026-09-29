@@ -22,12 +22,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate stats card
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: stats
-          options: username=${{ github.repository_owner }}&hide_title=true&show_icons=true&include_all_commits=false&count_private=false&line_height=30&hide=issues&bg_color=0d1117&title_color=0CF25D&text_color=c9d1d9&border_radius=6&border_color=30363d&icon_color=0CF25D
-          path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 .github/scripts/generate-stats.py
 
       - name: Generate top languages card
         uses: stats-organization/github-readme-stats-action@v2
