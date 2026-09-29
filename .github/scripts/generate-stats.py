@@ -19,14 +19,10 @@ def get_json(url):
         return json.load(response)
 
 user = get_json(f"https://api.github.com/users/{USERNAME}")
-repos = get_json(
-    f"https://api.github.com/users/{USERNAME}/repos?per_page=100&type=owner&sort=updated"
-)
-
-stars = sum(repo.get("stargazers_count", 0) for repo in repos if not repo.get("fork"))
-forks = sum(repo.get("forks_count", 0) for repo in repos if not repo.get("fork"))
-public_repos = user.get("public_repos", len(repos))
+public_repos = user.get("public_repos", 0)
 followers = user.get("followers", 0)
+following = user.get("following", 0)
+public_gists = user.get("public_gists", 0)
 
 def fmt(value):
     if value >= 1_000_000:
@@ -37,9 +33,9 @@ def fmt(value):
 
 metrics = [
     ("Public Repos", fmt(public_repos)),
-    ("Total Stars", fmt(stars)),
     ("Followers", fmt(followers)),
-    ("Repo Forks", fmt(forks)),
+    ("Following", fmt(following)),
+    ("Public Gists", fmt(public_gists)),
 ]
 
 svg = f"""<svg xmlns="http://www.w3.org/2000/svg" width="495" height="180" viewBox="0 0 495 180" role="img" aria-label="GitHub stats for {escape(USERNAME)}">
