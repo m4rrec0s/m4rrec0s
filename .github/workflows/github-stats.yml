@@ -9,6 +9,7 @@ on:
       - main
     paths:
       - ".github/workflows/github-stats.yml"
+      - ".github/scripts/generate-stats.py"
 
 permissions:
   contents: write
